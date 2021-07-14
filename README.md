@@ -41,6 +41,7 @@ https://www.youtube.com/watch?v=iPsOCj_wKvY&ab_channel=AscendEDAcademy
  
 ## Programas
 
+- Gráfico de pontos
 - Histograma                   - Tempo de Reação
 - Histograma com fit Gaussiano - Tempo de Reação
 - Histograma com fit Gaussiano - Pêndulo Simples
